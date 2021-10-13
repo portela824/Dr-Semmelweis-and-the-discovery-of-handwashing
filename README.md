@@ -4,6 +4,8 @@
 
 # Even though I did it in Python there is an option to do it in the statistical programming language R
 
+# I first made the project on the Datacamp website after that I uploaded  into google colaboratory and then uploaded into Github
+
 # Something interesting about the project is how something so simple as washing hands during the end of the nineteenth century make an important impact
 on people healths.
 
