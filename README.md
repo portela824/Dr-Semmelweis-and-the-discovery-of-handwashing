@@ -6,8 +6,6 @@
 
 # I first made the project on the Datacamp website after that I uploaded  into google colaboratory and then uploaded into Github
 
-# Something interesting about the project is how something so simple as washing hands during the end of the nineteenth century make an important impact
-on people healths.
+# Something interesting about the project is how something so simple as washing hands during the end of the nineteenth century make an important impact on people healths.
 
-# For me realizing this project help me understand a litle more on how to use Python or R on possible future projects or even create an idea of how 
-the job od a Data Scientis is 
+# For me this project help me understand a litle more on how to use Python or R on possible future projects or even create an idea of how the job od a Data Scientis is 
